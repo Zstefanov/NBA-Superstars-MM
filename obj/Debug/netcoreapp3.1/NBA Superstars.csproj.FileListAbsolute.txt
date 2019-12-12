@@ -1,0 +1,26 @@
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\bin\Debug\netcoreapp3.1\NBA Superstars.exe
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\obj\Debug\netcoreapp3.1\NBA Superstars.csprojAssemblyReference.cache
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\obj\Debug\netcoreapp3.1\NBA Superstars.AssemblyInfoInputs.cache
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\obj\Debug\netcoreapp3.1\NBA Superstars.AssemblyInfo.cs
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\bin\Debug\netcoreapp3.1\NBA Superstars.deps.json
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\bin\Debug\netcoreapp3.1\NBA Superstars.runtimeconfig.json
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\bin\Debug\netcoreapp3.1\NBA Superstars.runtimeconfig.dev.json
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\bin\Debug\netcoreapp3.1\NBA Superstars.dll
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\bin\Debug\netcoreapp3.1\NBA Superstars.pdb
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\obj\Debug\netcoreapp3.1\NBA Superstars.csproj.CopyComplete
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\obj\Debug\netcoreapp3.1\NBA Superstars.dll
+C:\Users\J\source\repos\MentorMate Internship Task\NBA Superstars\obj\Debug\netcoreapp3.1\NBA Superstars.pdb
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\bin\Debug\netcoreapp3.1\NBA Superstars.exe
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\bin\Debug\netcoreapp3.1\NBA Superstars.deps.json
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\bin\Debug\netcoreapp3.1\NBA Superstars.runtimeconfig.json
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\bin\Debug\netcoreapp3.1\NBA Superstars.runtimeconfig.dev.json
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\bin\Debug\netcoreapp3.1\NBA Superstars.dll
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\bin\Debug\netcoreapp3.1\NBA Superstars.pdb
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\obj\Debug\netcoreapp3.1\NBA Superstars.csprojAssemblyReference.cache
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\obj\Debug\netcoreapp3.1\NBA Superstars.AssemblyInfoInputs.cache
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\obj\Debug\netcoreapp3.1\NBA Superstars.AssemblyInfo.cs
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\obj\Debug\netcoreapp3.1\NBA Superstars.csproj.CopyComplete
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\obj\Debug\netcoreapp3.1\NBA Superstars.dll
+C:\Users\J\source\repos\MentorMate Internship Task\NBA-Superstars-MM\obj\Debug\netcoreapp3.1\NBA Superstars.pdb

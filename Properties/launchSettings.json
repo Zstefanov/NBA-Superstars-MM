@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NBA Superstars": {
+      "commandName": "Project",
+      "commandLineArgs": "./data.json 20 66 ./fltrData.csv"
+    }
+  }
+}
